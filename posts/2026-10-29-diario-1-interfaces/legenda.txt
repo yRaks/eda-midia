@@ -1,0 +1,9 @@
+Redesenhei a tela inicial do Época dos Arcanos. 🎨
+
+Antes de programar, desenhei tudo no Figma: paleta, fontes e cada tela, uma por vez, com aprovação antes de ir para o jogo. Uso IA como assistente no Figma e no código; as decisões são minhas.
+
+Agora o menu tem arte de fundo, modos de dificuldade e até 5 mundos salvos. Ainda faltam as telas de opções, créditos e guia. Me conta nos comentários o que você achou!
+
+Imagens reais do protótipo, em desenvolvimento na Unreal Engine 5. Arte de fundo: conceito gerado por IA.
+
+#gamedev #unrealengine5 #rpg #aventura #sobrevivencia #coop
